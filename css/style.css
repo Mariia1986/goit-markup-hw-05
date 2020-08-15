@@ -125,7 +125,7 @@ body {
 .contacts {
   display: inline-flex;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.16;
   letter-spacing: 0.02em;
   align-items: center;
@@ -413,12 +413,14 @@ body {
 .footer-contacts {
   font-weight: 400;
   font-size: 14px;
+  font-style: normal;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 .adress {
   color: var(--primary-white-color);
+  
 }
 .adress-box {
   margin-right: 69px;
